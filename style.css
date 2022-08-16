@@ -1,0 +1,411 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.body {
+    width: 1000px;
+    margin-top: 10px;
+    margin-left: 20px;
+    line-height: 25px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.body h1{
+    margin-bottom: 20px;
+}
+.body p {
+    color: rgb(176, 171, 171);
+}
+.body01{
+    margin-top: 40px;
+    display: flex;
+}
+.body1{
+    width: 400px;
+    margin-right: 20px;
+}
+.body11{
+    width: 100%;
+    height: 250px;
+    color: white;
+    font-size: 30px;
+    border: 1px solid #1a73e8;
+    background-color: #1a73e8;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 250px;
+}
+.body1 h3{
+    width: 350px;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Cambria,Georgia,serif; 
+}
+.body1 span {
+    color: rgb(176, 171, 171);
+}
+.body2 .span{
+    color: rgb(176, 171, 171);
+}
+.body21{
+    display: flex;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: thin red dotted;
+}
+.body211{
+    width: 130px;
+    height: 80px;
+    color: white;
+    background-color: pink;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.body22{
+    display: flex;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: thin red dotted;
+}
+.body221{
+    width: 140px;
+    height: 80px;
+    color: white;
+    background-color: pink;
+    text-align: center;
+    line-height:80px;
+    font-size: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.body23{
+    display: flex;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: thin red dotted;
+}
+.body231{
+    width: 140px;
+    height: 80px;
+    color: white;
+    background-color: pink;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.body24{
+    display: flex;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.body241{
+    width: 140px;
+    height: 80px;
+    color: white;
+    background-color: pink;
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+} */
+
+/* bài 2 */
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.div0{ 
+    width: 1500px;
+    background-color:rgb(237, 229, 229);
+    margin-left: 30px;
+    margin-top: 30px;
+}.div0 h3{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 20px;
+}.div1{
+    display: flex;
+}.div2{
+    padding: 10px;
+}
+.div2 .div3{
+    font-size: 20px;
+   margin-left: 20px;
+   margin-top: 20px;
+   
+}.div2 .div4{
+    font-size: 20px;
+   margin-left: 20px;
+   margin-top: 20px;
+}.div2 h4{
+    margin-left: 20px;
+    margin-top: 20px;
+}.div5{
+    width: 700px;
+    margin-left: 100px;
+    
+}.div5 .p1 input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}.div5 .p2 input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}.div5 .p3 input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}.div5 .p4 textarea{
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 20px;
+}.div5 button{
+    font-size: 17px;
+    background-color: rgb(0, 255, 153);
+} */
+
+
+
+ /* bài3 */
+ /* .div0{
+    width: 1300px;
+    padding: 10px;
+    margin-top: 20px ;
+    margin-left: 20px;
+    
+ }
+.div1{
+    margin-top: 20px;
+    display: flex;
+}.div2{
+    width: 600px;
+    background-color: rgb(3, 3, 17);
+    margin-right: 30px;
+}.div2 .div21{
+    font-size: 50px;
+    width: 100%;
+    
+    color: white;
+    border: 1px solid rgb(13, 13, 34);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 400px;
+}.div3 p{
+    width: 450px;
+    margin-top: 30px;
+    color: rgb(117, 117, 120);
+    margin-bottom: 30px;
+
+}.div6{
+    display: flex;
+}.div6 .div4{
+    width: 250px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+} */
+   
+
+
+
+
+/* bài5 */
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.div0{
+    width: 847px;
+    background-color: rgb(247, 243, 243);
+    margin-top: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    box-shadow: 5px 5px 35px 5px #888888;
+ 
+   
+}.div1{
+    display: flex;
+    padding-top: 15px;
+}.div2 .p1 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div2 .p2 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div2 .p3 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div3 .p4 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div3 .p5 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div3 .p6 input{
+    width: 400px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div4 .p7 input{
+    width:100%;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+}.div4 button{
+    width:100%;
+    background-color: black;
+    color: white;
+    height: 30px;
+} */
+
+
+
+/* baif6 
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.div0{
+margin: 20px;
+width: 700px;
+}
+.div0 .div1{
+    display: flex;
+    width: 100%;
+}
+.div0 h2{
+    margin-bottom: 20px;
+}
+.div1 .p1 {
+    width: 100%;
+    margin-right: 40px;
+    margin-bottom: 20px; 
+}
+.div1 .p2 {
+    width: 100%;
+}
+.div1 .p1 input{
+    width: 100%;
+    height: 50px;
+    padding-left: 15px;
+    
+}
+.div1 .p2 input{
+    width: 100%;
+    height: 50px;
+    padding-left: 15px;
+    
+}
+.div2{
+    width: 100%;
+}
+.div2 input{
+    width: 100%;
+    height: 50px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}.div3{
+    width: 100%;
+}.div3 textarea{
+    width: 100%;
+    height: 300px;
+    padding-left: 15px;
+
+}.div4 .span1 button{
+    background-color: rgb(143, 143, 230);
+    font-size: 30px;
+    color: white;
+    height: 50px;
+}.div4 .span2{
+    color: rgb(204, 199, 199);
+    float: right;
+} */
+
+
+
+/* bài4 */
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.div{
+    width: 1000px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 35px;
+    margin: 20px;
+    background-color: aliceblue;
+}
+.div h1 {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.div0{
+    margin: 30px;
+}
+.div.p{
+    width: 100%;
+    text-align: center;
+    color: rgb(176, 171, 171);
+    line-height: 25px;
+}
+.div1{
+    display: flex;
+    justify-content: space-between;
+}
+.div1 .div10{
+    width: 300px;
+}
+.div10 .div100{
+    width: 100%;
+    height: 200px;
+    color: white;
+    background-color: rgb(95, 127, 47);
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+.div10 .div101{
+    width: 100%;
+    padding-left: 15px;
+    background-color: white;
+    padding-top: 20px;
+}
+.div10 h3 {
+    padding-bottom: 10px;
+}
+.div10 .p1{
+    color: rgb(176, 171, 171);
+    line-height: 25px;
+} 
